@@ -15,9 +15,9 @@
 - Next.js: I often choose Next.js for development because it provides excellent capabilities for server-side rendering, static generation, and makes it easy to configure routing and optimization.
 
 ## EXTRA SKILLS
-- Vue.js: While React is my primary technology, I also work with Vue.js regularly, enjoying its flexibility and simplicity. I use Vue to create highly efficient and easily scalable applications.
-- Redux/Vuex: Experience with various state managers like Redux and Vuex to manage application state.
+- Redux Experience with various state managers like Redux and Vuex to manage application state.
 - Styled Components and CSS Modules: Most often using Tailwind CSS to style components in React.
+- Framer Motion: Proficient in using Framer Motion to add animations and transitions to React components for enhanced user experiences.
 - API integration: Experience with REST to integrate frontend with backend.
 - Git: I use Git for version control.
 
